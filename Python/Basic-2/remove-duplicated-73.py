@@ -5,3 +5,11 @@
 # Sample Output:
 # 5
 # 4
+
+list1 = [0,0,1,1,2,2,3,3,4,4,4]
+
+print(f"Old list: {list1}\nOld length: {len(list1)} ")
+
+unDuplicated = set(list1)
+
+print(f"New list: {unDuplicated}\nNew length: {len(unDuplicated)}")
