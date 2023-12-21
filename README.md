@@ -10,7 +10,7 @@
 
 ## About The Project
 
-It's a training with a lot of exercises in GIT, Python, Django, and Web development languages like Html, Css and Javascript, Jquery and Bootstrap.
+It's a training with a lot of exercises in GIT, Python, Django, and Web development languages like Html, Css, Javascript, Jquery and Bootstrap.
 
 ### Built With
 
